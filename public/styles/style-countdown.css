@@ -108,7 +108,7 @@ ul {
 
 .imgBox img {
   text-align: center;
-  width: 60%;
+  width: 20%;
   -webkit-animation: mover 2s infinite alternate;
   animation: mover 2s infinite alternate;
 }
@@ -141,5 +141,8 @@ ul {
 
   li span {
     font-size: calc(3.375rem * var(--smaller));
+  }
+  .imgBox img {
+    width: 20%;
   }
 }
