@@ -143,6 +143,6 @@ ul {
     font-size: calc(3.375rem * var(--smaller));
   }
   .imgBox img {
-    width: 20%;
+    width: 60%;
   }
 }

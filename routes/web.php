@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/kelas-reguler', function () {
     return view('pages.kelas-reguler');
 });
+
+Route::get('/kelas-ramadhan', function () {
+    return view('pages.kelas-ramadhan');
+});
